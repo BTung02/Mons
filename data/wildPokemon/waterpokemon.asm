@@ -1,0 +1,17 @@
+WaterMons:
+; Grass Mons
+	db $00
+
+; Water Mons
+	db $05
+	db 10,TENTACOOL
+	db 10,GOLDEEN
+	db 15,GOLDEEN
+	db 10,TENTACOOL
+	db 10,STARYU
+	db 15,STARYU
+	db 20,TENTACOOL
+	db 30,TENTACOOL
+	db 35,TENTACOOL
+	db 40,TENTACRUEL
+

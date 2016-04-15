@@ -1,0 +1,27 @@
+Route23Mons:
+; Grass Mons
+	db $0A
+	db 26,EKANS
+	db 33,DITTO
+	db 26,SPEAROW
+	db 38,ARBOK
+	db 38,DITTO
+	db 38,FEAROW
+	db 41,ARBOK
+	db 43,DITTO
+	db 41,SANDSLASH
+	db 43,FEAROW
+	
+; Water Mons
+	db $05
+	db 20,PSYDUCK
+	db 25,PSYDUCK
+	db 30,PSYDUCK
+	db 20,SLOWPOKE
+	db 25,SLOWPOKE
+	db 30,SLOWPOKE
+	db 35,GOLDUCK
+	db 35,SLOWBRO
+	db 40,GOLDUCK
+	db 40,SLOWBRO
+

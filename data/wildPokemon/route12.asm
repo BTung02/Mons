@@ -1,0 +1,27 @@
+Route12Mons:
+; Grass Mons
+	db $0F
+	db 24,ODDISH
+	db 25,BELLSPROUT
+	db 23,PIDGEY
+	db 24,VENONAT
+	db 22,ODDISH
+	db 26,VENONAT
+	db 26,WEEPINBELL
+	db 27,GLOOM
+	db 28,FARFETCH_D
+	db 30,BELLOSSOM
+	
+; Water Mons
+	db $03
+	db 15,SLOWPOKE
+	db 15,SLOWPOKE
+	db 15,SLOWPOKE
+	db 15,HORSEA
+	db 15,HORSEA
+	db 15,SEADRA
+	db 15,SEADRA
+	db 15,SHELLDER
+	db 15,SLOWBRO
+	db 20,SLOWBRO
+

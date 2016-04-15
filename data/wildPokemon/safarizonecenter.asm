@@ -1,0 +1,27 @@
+ZoneMonsCenter:
+; Grass Mons
+	db $1E
+	db 22,RHYHORN
+	db 25,RHYHORN
+	db 22,EXEGGCUTE
+	db 24,EXEGGCUTE
+	db 31,NIDORINO
+	db 25,NIDORINA
+	db 31,HERACROSS
+	db 30,PINSIR
+	db 23,SCYTHER
+	db 23,CHANSEY
+
+; Water Mons
+	db $03
+	db 24,PSYDUCK
+	db 26,PSYDUCK
+	db 22,SLOWPOKE
+	db 25,SLOWPOKE
+	db 33,GOLDUCK
+	db 23,SLOWBRO
+	db 24,STARMIE
+	db 25,GYARADOS
+	db 25,SLOWKING
+	db 28,DRATINI
+

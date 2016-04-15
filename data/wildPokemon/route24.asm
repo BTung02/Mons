@@ -1,0 +1,27 @@
+Route24Mons:
+; Grass Mons
+	db $19
+	db 12,ODDISH
+	db 12,BELLSPROUT
+	db 13,PIDGEY
+	db 14,ODDISH
+	db 14,BELLSPROUT
+	db 15,PIDGEY
+	db 13,VENONAT
+	db 16,MEOWTH
+	db 17,ABRA
+	db 17,ABRA
+
+; Water Mons
+	db $03
+	db 12,GOLDEEN
+	db 12,GOLDEEN
+	db 13,GOLDEEN
+	db 14,GOLDEEN
+	db 14,GOLDEEN
+	db 15,GOLDEEN
+	db 13,STARYU
+	db 16,STARYU
+	db 17,SEAKING
+	db 17,SEAKING
+
